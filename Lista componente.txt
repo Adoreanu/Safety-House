@@ -1,0 +1,16 @@
+ Pentru realizare s-au folosit urmatoarele:
+-Infiduino Uno R3
+-Display LCD 16x2
+-Breadboard 
+-Fire conductoare
+-Potentiometru
+-Rezistori
+-Buzzer          
+Senzori:
+-Lumina
+-Gaz
+-Sunet
+-Miscare
+-Temperatura si umiditate
+-Flacara
+-Curent
